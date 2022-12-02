@@ -1,1 +1,4 @@
 
+select * from emp;
+select ename,job,sal,comm,hiredate from emp;
+select distinct deptno FROM emp;
